@@ -1,6 +1,0 @@
-streamlit>=1.30.0
-opencv-python
-ultralytics
-numpy
-pandas
-plotly
