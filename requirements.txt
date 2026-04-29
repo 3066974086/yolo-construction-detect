@@ -1,0 +1,6 @@
+streamlit>=1.30.0
+opencv-python-headless
+ultralytics
+numpy
+pandas
+plotly
